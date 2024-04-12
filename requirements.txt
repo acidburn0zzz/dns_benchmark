@@ -1,5 +1,5 @@
 cycler==0.10.0
-dnspython==1.16.0
+dnspython==2.6.1
 kiwisolver==1.2.0
 matplotlib==3.2.1
 numpy==1.18.3
